@@ -1,1 +1,2 @@
-[![Open In Colab](https://google.com)](https://google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://google.com)
+
